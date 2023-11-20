@@ -7,7 +7,7 @@ I am jafeth, i enjoy creating cool stuffs with java and spring boot framework.
 
 - 📫 How to reach me using email **jafethadet2021@gmail.com**
   
-- 📫 How to reach me using  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jafeth-adet-382200253/) 
+- 📫 How to reach me using  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jafeth-adet-382200253/) 
 
 - 👯 I’m looking to collaborate more with other developers 
 
