@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is jafeth adet
 #### I am a backend java  developer
-I am jafeth, i enjoy creating cool stuffs with java and spring boot framework.
+#### i enjoy creating cool stuffs with java and spring boot framework.
 
 - 🌱 I’m constantly learning
 
